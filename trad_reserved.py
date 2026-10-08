@@ -8,6 +8,7 @@ names_list = [
     "Hon. Raymond Mgbakor",
     "Mr. Ugochukwu Obi",
     "Mr. Paul Ifeanyi Okoh",
+    "Mr. Marcus Ojaruega",
 ]
 
 # Path to your single template PDF file
